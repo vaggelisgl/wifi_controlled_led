@@ -4,7 +4,7 @@ import sys
 
 import socket
 import time
-HOST="192.168.2.8"
+HOST="192.168.2.8"  #input your arduino's address within your local network
 PORT=12345
 mysocket =socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
 mysocket.settimeout(5.0)
