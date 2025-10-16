@@ -1,2 +1,3 @@
 # wifi_controlled_led
-Just some code that controlls an rgb led through wifi with an arduino, it's not anything fancy just using it to test out github
+This is basically a wifi controlled RGB LED ,i made a GUI in python that communicates with an arduino UNO R4 through a web socket in the same wifi ,which allows me to control the RGB values of the LED
+,im basically using this just to test out github.
